@@ -1,4 +1,4 @@
-# 🧠 Deep Learning: Image Classification, NLP & Time Series
+# Deep Learning: Image Classification, NLP & Time Series
 
 A comprehensive deep learning project covering four major domains: image classification (Logistic Regression → FCN → CNN → ResNet-50), Transformer-based NLP (DistilBERT fine-tuning for SQuAD QA), and time series forecasting (Moving Average → RNN → LSTM). Built with PyTorch and Hugging Face Transformers on Google Colab with GPU acceleration.
 
